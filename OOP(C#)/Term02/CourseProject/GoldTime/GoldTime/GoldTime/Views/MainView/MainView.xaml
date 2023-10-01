@@ -1,0 +1,167 @@
+﻿<Window
+    x:Class="GoldTime.Views.MainView.MainView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:controls="clr-namespace:Controls;assembly=Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:GoldTime.Views.MainView"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Width="800"
+    Height="450"
+    MinWidth="750px"
+    MinHeight="520px"
+    AllowsTransparency="True"
+    Background="Transparent"
+    Icon="..\..\Resources\Images\Application\App.png"
+    ResizeMode="CanResizeWithGrip"
+    WindowStyle="None"
+    mc:Ignorable="d">
+    <Border Background="{DynamicResource MainGradient}" CornerRadius="15">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="25px" />
+                <RowDefinition />
+                <RowDefinition Height="60px" />
+            </Grid.RowDefinitions>
+            <!--  Header  -->
+            <Border
+                Grid.Row="0"
+                Background="Transparent"
+                BorderBrush="{DynamicResource ColorContent}"
+                BorderThickness="0,0,0,1"
+                MouseDown="Border_MouseDown">
+                <Grid HorizontalAlignment="Stretch">
+                    <Label
+                        HorizontalAlignment="Center"
+                        Content="{DynamicResource NameApplication}"
+                        FontWeight="SemiBold"
+                        Foreground="{DynamicResource ColorContent}" />
+                    <StackPanel
+                        Margin="10,0,0,0"
+                        HorizontalAlignment="Left"
+                        Orientation="Horizontal">
+                        <controls:WindowButton
+                            Command="{Binding CloseMainView}"
+                            Style="{StaticResource MainWindowControl}"
+                            Color="#f34f56" />
+                        <controls:WindowButton
+                            Command="{Binding HideMainView}"
+                            Style="{StaticResource MainWindowControl}"
+                            Color="#fac537" />
+                        <controls:WindowButton
+                            Command="{Binding OpenFullScreen}"
+                            Style="{StaticResource MainWindowControl}"
+                            Color="#3aea49" />
+                    </StackPanel>
+                </Grid>
+            </Border>
+            <!--  Body  -->
+            <Frame
+                x:Name="MainBodyBack"
+                Grid.Row="1"
+                Background="{DynamicResource LightBackground}"
+                Content="{Binding MainPageBack}"
+                NavigationUIVisibility="Hidden" />
+            <Frame
+                x:Name="MainBodyFront"
+                Grid.Row="1"
+                Content="{Binding MainPageFront}"
+                NavigationUIVisibility="Hidden" />
+            <!--  Footer  -->
+            <Border
+                Grid.Row="2"
+                BorderBrush="{DynamicResource ColorContent}"
+                BorderThickness="0,1,0,0">
+                <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                    <Button
+                        x:Name="AdminMain"
+                        Height="60px"
+                        Padding="0"
+                        Background="Transparent"
+                        BorderThickness="0">
+                        <controls:PageNavigatorRadioButton
+                            Width="70"
+                            Command="{Binding SetMainPage}"
+                            CommandParameter="AdminPanel"
+                            Content="{DynamicResource AdminPanel}"
+                            Foreground="{DynamicResource ColorContent}"
+                            ImagePath="..\..\Resources\Images\MainView\AdminPanel.png"
+                            SizeImage="32" />
+                    </Button>
+                    <Button
+                        Height="60px"
+                        Padding="0"
+                        Background="Transparent"
+                        BorderThickness="0">
+                        <controls:PageNavigatorRadioButton
+                            Width="70"
+                            Command="{Binding SetMainPage}"
+                            CommandParameter="News"
+                            Content="{DynamicResource News}"
+                            Foreground="{DynamicResource ColorContent}"
+                            ImagePath="..\..\Resources\Images\MainView\News.png"
+                            SizeImage="32" />
+                    </Button>
+                    <Button
+                        Height="60px"
+                        Padding="0"
+                        Background="Transparent"
+                        BorderThickness="0">
+                        <controls:PageNavigatorRadioButton
+                            Width="70"
+                            Command="{Binding SetMainPage}"
+                            CommandParameter="Shop"
+                            Content="{DynamicResource Shop}"
+                            Foreground="{DynamicResource ColorContent}"
+                            ImagePath="..\..\Resources\Images\MainView\Shop.png"
+                            SizeImage="32" />
+                    </Button>
+                    <Button
+                        x:Name="BasketMain"
+                        Height="60px"
+                        Padding="0"
+                        Background="Transparent"
+                        BorderThickness="0">
+                        <controls:PageNavigatorRadioButton
+                            Width="70"
+                            Command="{Binding SetMainPage}"
+                            CommandParameter="Basket"
+                            Content="{DynamicResource Basket}"
+                            Foreground="{DynamicResource ColorContent}"
+                            ImagePath="..\..\Resources\Images\MainView\Busket.png"
+                            SizeImage="32" />
+                    </Button>
+                    <Button
+                        x:Name="OrdersMain"
+                        Height="60px"
+                        Padding="0"
+                        Background="Transparent"
+                        BorderThickness="0">
+                        <controls:PageNavigatorRadioButton
+                            Width="70"
+                            Command="{Binding SetMainPage}"
+                            CommandParameter="Orders"
+                            Content="{DynamicResource Orders}"
+                            Foreground="{DynamicResource ColorContent}"
+                            ImagePath="..\..\Resources\Images\MainView\Orders.png"
+                            SizeImage="32" />
+                    </Button>
+                    <Button
+                        Height="60px"
+                        Padding="0"
+                        Background="Transparent"
+                        BorderThickness="0">
+                        <controls:PageNavigatorRadioButton
+                            Width="70"
+                            Command="{Binding SetMainPage}"
+                            CommandParameter="Settings"
+                            Content="{DynamicResource Settings}"
+                            Foreground="{DynamicResource ColorContent}"
+                            ImagePath="..\..\Resources\Images\MainView\Settings.png"
+                            SizeImage="32" />
+                    </Button>
+                </StackPanel>
+            </Border>
+        </Grid>
+    </Border>
+</Window>

@@ -1,0 +1,4 @@
+﻿  ClientMS.cpp
+C:\Users\ilyac\OneDrive\Рабочий стол\ПСП Шиман\Labs\Лабораторная работа №7\ClientMS\ClientMS.cpp(19,20): warning C4101: end: неиспользованная локальная переменная
+C:\Users\ilyac\OneDrive\Рабочий стол\ПСП Шиман\Labs\Лабораторная работа №7\ClientMS\ClientMS.cpp(19,13): warning C4101: start: неиспользованная локальная переменная
+  ClientMS.vcxproj -> C:\Users\ilyac\OneDrive\Рабочий стол\ПСП Шиман\Labs\Лабораторная работа №7\ServerMS\x64\Debug\ClientMS.exe

@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style x:Key="AdminPageName" TargetType="TextBlock">
+        <Setter Property="Text" Value="Админ панель"/>
+    </Style>
+    <Style x:Key="ShopPageName" TargetType="TextBlock">
+        <Setter Property="Text" Value="Магазин"/>
+    </Style>
+    <Style x:Key="SettingsPageName" TargetType="TextBlock">
+        <Setter Property="Text" Value="Настройки"/>
+    </Style>
+</ResourceDictionary>

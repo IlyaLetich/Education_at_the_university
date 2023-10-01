@@ -1,0 +1,73 @@
+﻿<Page x:Class="Lab_04_05.View.CreateWatch"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Lab_04_05.View"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="CreateWatch">
+
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.8*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200px"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" 
+               Grid.ColumnSpan="2"
+               VerticalContentAlignment="Center"
+               HorizontalAlignment="Center"
+               Content="Добавление товара"/>
+        <TextBlock Grid.Row="1"
+                   Grid.Column="0"
+                   VerticalAlignment="Center"
+                   Text="Название модели"
+                   Margin="30 0 30 0"/>
+        <TextBox Grid.Row="1"
+                 Grid.Column="1"
+                 Margin="0 20 30 20"
+                 x:Name="NameModel"/>
+        <Label Grid.Row="2"
+               Grid.Column="0"
+               VerticalAlignment="Center"
+               Content="Название компании"
+               Margin="30 0 30 0"/>
+        <TextBox Grid.Row="2"
+                 Grid.Column="1"
+                 Margin="0 20 30 20"
+                 x:Name="NameCompany"/>
+        <Label Grid.Row="3"
+               Grid.Column="0"
+               VerticalAlignment="Center"
+               Content="Путь к картинке"
+               Margin="30 0 30 0"/>
+        <TextBox Grid.Row="3"
+                 Grid.Column="1"
+                 Margin="0 20 30 20"
+                 x:Name="PathImage"/>
+        <Label Grid.Row="4"
+               Grid.Column="0"
+               Content="Описание"
+               Margin="30 30 30 0"/>
+        <TextBox Grid.Row="4"
+                 Grid.Column="1"
+                 Margin="0 20 30 20"
+                 x:Name="Description"/>
+        <Button Grid.Row="5"
+                Grid.Column="1"
+                HorizontalAlignment="Left"
+                Content="Добавть"
+                Width="200px"
+                Height="45px"
+                Background="LightGreen"
+                Command="{Binding CreateWatch}"/>
+    </Grid>
+</Page>

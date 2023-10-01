@@ -1,0 +1,15 @@
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\КР ООП_02\KR_OOP_02\KR_OOP_02\obj\Debug\net6.0\KR_OOP_02.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\КР ООП_02\KR_OOP_02\KR_OOP_02\obj\Debug\net6.0\KR_OOP_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\КР ООП_02\KR_OOP_02\KR_OOP_02\obj\Debug\net6.0\KR_OOP_02.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\КР ООП_02\KR_OOP_02\KR_OOP_02\obj\Debug\net6.0\KR_OOP_02.AssemblyInfo.cs
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\КР ООП_02\KR_OOP_02\KR_OOP_02\obj\Debug\net6.0\KR_OOP_02.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\КР ООП_02\KR_OOP_02\KR_OOP_02\bin\Debug\net6.0\KR_OOP_02.exe
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\КР ООП_02\KR_OOP_02\KR_OOP_02\bin\Debug\net6.0\KR_OOP_02.deps.json
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\КР ООП_02\KR_OOP_02\KR_OOP_02\bin\Debug\net6.0\KR_OOP_02.runtimeconfig.json
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\КР ООП_02\KR_OOP_02\KR_OOP_02\bin\Debug\net6.0\KR_OOP_02.dll
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\КР ООП_02\KR_OOP_02\KR_OOP_02\bin\Debug\net6.0\KR_OOP_02.pdb
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\КР ООП_02\KR_OOP_02\KR_OOP_02\obj\Debug\net6.0\KR_OOP_02.dll
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\КР ООП_02\KR_OOP_02\KR_OOP_02\obj\Debug\net6.0\refint\KR_OOP_02.dll
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\КР ООП_02\KR_OOP_02\KR_OOP_02\obj\Debug\net6.0\KR_OOP_02.pdb
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\КР ООП_02\KR_OOP_02\KR_OOP_02\obj\Debug\net6.0\KR_OOP_02.genruntimeconfig.cache
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\КР ООП_02\KR_OOP_02\KR_OOP_02\obj\Debug\net6.0\ref\KR_OOP_02.dll

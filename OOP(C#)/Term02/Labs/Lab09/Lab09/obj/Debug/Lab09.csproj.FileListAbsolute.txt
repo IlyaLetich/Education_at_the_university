@@ -1,0 +1,88 @@
+C:\University\4_term\Lab09\Lab09\obj\Debug\Lab09.csproj.AssemblyReference.cache
+C:\University\4_term\Lab09\Lab09\obj\Debug\App.g.cs
+C:\University\4_term\Lab09\Lab09\obj\Debug\Lab09_MarkupCompile.cache
+C:\University\4_term\Lab09\Lab09\obj\Debug\Lab09_MarkupCompile.lref
+C:\University\4_term\Lab09\Lab09\bin\Debug\Lab09.exe.config
+C:\University\4_term\Lab09\Lab09\bin\Debug\Lab09.exe
+C:\University\4_term\Lab09\Lab09\bin\Debug\Lab09.pdb
+C:\University\4_term\Lab09\Lab09\bin\Debug\EntityFramework.dll
+C:\University\4_term\Lab09\Lab09\bin\Debug\EntityFramework.SqlServer.dll
+C:\University\4_term\Lab09\Lab09\bin\Debug\EntityFramework.xml
+C:\University\4_term\Lab09\Lab09\bin\Debug\EntityFramework.SqlServer.xml
+C:\University\4_term\Lab09\Lab09\obj\Debug\Lab09.g.resources
+C:\University\4_term\Lab09\Lab09\obj\Debug\Lab09.Properties.Resources.resources
+C:\University\4_term\Lab09\Lab09\obj\Debug\Lab09.csproj.GenerateResource.cache
+C:\University\4_term\Lab09\Lab09\obj\Debug\Lab09.csproj.CoreCompileInputs.cache
+C:\University\4_term\Lab09\Lab09\obj\Debug\Lab09.csproj.CopyComplete
+C:\University\4_term\Lab09\Lab09\obj\Debug\Lab09.exe
+C:\University\4_term\Lab09\Lab09\obj\Debug\Lab09.pdb
+C:\University\4_term\Lab09\Lab09\obj\Debug\Lab09_Content.g.cs
+C:\University\4_term\Lab09\Lab09\obj\Debug\Code-First\Ex1.g.cs
+C:\University\4_term\Lab09\Lab09\obj\Debug\Code-First\Ex2.g.cs
+C:\University\4_term\Lab09\Lab09\obj\Debug\Code-First\MainWindow.g.cs
+C:\University\4_term\Lab09\Lab09\obj\Debug\Code-First\Page1.g.cs
+C:\University\4_term\Lab09\Lab09\obj\Debug\Code-First\Page2.g.cs
+C:\University\4_term\Lab09\Lab09\obj\Debug\Code-First\Ex1.baml
+C:\University\4_term\Lab09\Lab09\obj\Debug\Code-First\Ex2.baml
+C:\University\4_term\Lab09\Lab09\obj\Debug\Code-First\MainWindow.baml
+C:\University\4_term\Lab09\Lab09\obj\Debug\Code-First\Page1.baml
+C:\University\4_term\Lab09\Lab09\obj\Debug\Code-First\Page2.baml
+C:\University\4_term\ООП\Lab09\Lab09\bin\Debug\Lab09.exe.config
+C:\University\4_term\ООП\Lab09\Lab09\bin\Debug\Lab09.exe
+C:\University\4_term\ООП\Lab09\Lab09\bin\Debug\Lab09.pdb
+C:\University\4_term\ООП\Lab09\Lab09\bin\Debug\EntityFramework.dll
+C:\University\4_term\ООП\Lab09\Lab09\bin\Debug\EntityFramework.SqlServer.dll
+C:\University\4_term\ООП\Lab09\Lab09\bin\Debug\EntityFramework.xml
+C:\University\4_term\ООП\Lab09\Lab09\bin\Debug\EntityFramework.SqlServer.xml
+C:\University\4_term\ООП\Lab09\Lab09\obj\Debug\Lab09.csproj.AssemblyReference.cache
+C:\University\4_term\ООП\Lab09\Lab09\obj\Debug\Code-First\Ex1.g.cs
+C:\University\4_term\ООП\Lab09\Lab09\obj\Debug\Code-First\Ex2.g.cs
+C:\University\4_term\ООП\Lab09\Lab09\obj\Debug\Code-First\MainWindow.g.cs
+C:\University\4_term\ООП\Lab09\Lab09\obj\Debug\Code-First\Page1.g.cs
+C:\University\4_term\ООП\Lab09\Lab09\obj\Debug\Code-First\Page2.g.cs
+C:\University\4_term\ООП\Lab09\Lab09\obj\Debug\App.g.cs
+C:\University\4_term\ООП\Lab09\Lab09\obj\Debug\Lab09_Content.g.cs
+C:\University\4_term\ООП\Lab09\Lab09\obj\Debug\Lab09_MarkupCompile.cache
+C:\University\4_term\ООП\Lab09\Lab09\obj\Debug\Lab09_MarkupCompile.lref
+C:\University\4_term\ООП\Lab09\Lab09\obj\Debug\Code-First\Ex1.baml
+C:\University\4_term\ООП\Lab09\Lab09\obj\Debug\Code-First\Ex2.baml
+C:\University\4_term\ООП\Lab09\Lab09\obj\Debug\Code-First\MainWindow.baml
+C:\University\4_term\ООП\Lab09\Lab09\obj\Debug\Code-First\Page1.baml
+C:\University\4_term\ООП\Lab09\Lab09\obj\Debug\Code-First\Page2.baml
+C:\University\4_term\ООП\Lab09\Lab09\obj\Debug\Lab09.g.resources
+C:\University\4_term\ООП\Lab09\Lab09\obj\Debug\Lab09.Properties.Resources.resources
+C:\University\4_term\ООП\Lab09\Lab09\obj\Debug\Lab09.csproj.GenerateResource.cache
+C:\University\4_term\ООП\Lab09\Lab09\obj\Debug\Lab09.csproj.CoreCompileInputs.cache
+C:\University\4_term\ООП\Lab09\Lab09\obj\Debug\Lab09.csproj.CopyComplete
+C:\University\4_term\ООП\Lab09\Lab09\obj\Debug\Lab09.exe
+C:\University\4_term\ООП\Lab09\Lab09\obj\Debug\Lab09.pdb
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\bin\Debug\Lab09.exe.config
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\bin\Debug\Lab09.exe
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\bin\Debug\Lab09.pdb
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\bin\Debug\EntityFramework.dll
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\bin\Debug\EntityFramework.xml
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\Lab09.csproj.AssemblyReference.cache
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\Lab09.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\Code-First\Ex1.g.cs
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\Code-First\Ex2.g.cs
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\Code-First\MainWindow.g.cs
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\Code-First\Page1.g.cs
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\Code-First\Page2.g.cs
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\App.g.cs
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\Lab09_Content.g.cs
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\Lab09_MarkupCompile.cache
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\Lab09_MarkupCompile.lref
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\Code-First\Ex1.baml
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\Code-First\Ex2.baml
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\Code-First\MainWindow.baml
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\Code-First\Page1.baml
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\Code-First\Page2.baml
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\Lab09.g.resources
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\Lab09.Properties.Resources.resources
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\Lab09.csproj.GenerateResource.cache
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\Lab09.csproj.CoreCompileInputs.cache
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\Lab09.csproj.CopyComplete
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\Lab09.exe
+C:\Users\ilyac\OneDrive\Рабочий стол\Lab09\Lab09\obj\Debug\Lab09.pdb

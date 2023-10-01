@@ -1,0 +1,5 @@
+﻿  Errors.cpp
+  ServiceLibrary.cpp
+D:\УНИК\Семестр 4\ПСП\MyLabs\Lab08-10\ServiceLibrary\PrototypeService.h(159,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     Создается библиотека D:\УНИК\Семестр 4\ПСП\MyLabs\Lab08-10\Debug\ServiceLibrary.lib и объект D:\УНИК\Семестр 4\ПСП\MyLabs\Lab08-10\Debug\ServiceLibrary.exp
+  ServiceLibrary.vcxproj -> D:\УНИК\Семестр 4\ПСП\MyLabs\Lab08-10\Debug\ServiceLibrary.dll

@@ -1,0 +1,15 @@
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_04\Lab_04\Lab_04\obj\Debug\net6.0\Lab_04.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_04\Lab_04\Lab_04\obj\Debug\net6.0\Lab_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_04\Lab_04\Lab_04\obj\Debug\net6.0\Lab_04.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_04\Lab_04\Lab_04\obj\Debug\net6.0\Lab_04.AssemblyInfo.cs
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_04\Lab_04\Lab_04\obj\Debug\net6.0\Lab_04.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_04\Lab_04\Lab_04\bin\Debug\net6.0\Lab_04.exe
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_04\Lab_04\Lab_04\bin\Debug\net6.0\Lab_04.deps.json
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_04\Lab_04\Lab_04\bin\Debug\net6.0\Lab_04.runtimeconfig.json
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_04\Lab_04\Lab_04\bin\Debug\net6.0\Lab_04.dll
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_04\Lab_04\Lab_04\bin\Debug\net6.0\Lab_04.pdb
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_04\Lab_04\Lab_04\obj\Debug\net6.0\Lab_04.dll
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_04\Lab_04\Lab_04\obj\Debug\net6.0\refint\Lab_04.dll
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_04\Lab_04\Lab_04\obj\Debug\net6.0\Lab_04.pdb
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_04\Lab_04\Lab_04\obj\Debug\net6.0\Lab_04.genruntimeconfig.cache
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_04\Lab_04\Lab_04\obj\Debug\net6.0\ref\Lab_04.dll

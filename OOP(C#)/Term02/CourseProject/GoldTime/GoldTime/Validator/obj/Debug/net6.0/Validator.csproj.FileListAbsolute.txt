@@ -1,0 +1,12 @@
+E:\CourseProject\GoldTime\GoldTime\Validator\bin\Debug\net6.0\Validator.deps.json
+E:\CourseProject\GoldTime\GoldTime\Validator\bin\Debug\net6.0\Validator.dll
+E:\CourseProject\GoldTime\GoldTime\Validator\bin\Debug\net6.0\Validator.pdb
+E:\CourseProject\GoldTime\GoldTime\Validator\obj\Debug\net6.0\Validator.csproj.AssemblyReference.cache
+E:\CourseProject\GoldTime\GoldTime\Validator\obj\Debug\net6.0\Validator.GeneratedMSBuildEditorConfig.editorconfig
+E:\CourseProject\GoldTime\GoldTime\Validator\obj\Debug\net6.0\Validator.AssemblyInfoInputs.cache
+E:\CourseProject\GoldTime\GoldTime\Validator\obj\Debug\net6.0\Validator.AssemblyInfo.cs
+E:\CourseProject\GoldTime\GoldTime\Validator\obj\Debug\net6.0\Validator.csproj.CoreCompileInputs.cache
+E:\CourseProject\GoldTime\GoldTime\Validator\obj\Debug\net6.0\Validator.dll
+E:\CourseProject\GoldTime\GoldTime\Validator\obj\Debug\net6.0\refint\Validator.dll
+E:\CourseProject\GoldTime\GoldTime\Validator\obj\Debug\net6.0\Validator.pdb
+E:\CourseProject\GoldTime\GoldTime\Validator\obj\Debug\net6.0\ref\Validator.dll

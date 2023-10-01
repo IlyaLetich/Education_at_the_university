@@ -1,0 +1,5 @@
+﻿  Lab_10.cpp
+C:\Users\Илья\Desktop\Шиман\Алгоритмы и структуры данных\Labs\Lab_10\Lab_10\Lab_10\Lab_10.cpp(67,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Илья\Desktop\Шиман\Алгоритмы и структуры данных\Labs\Lab_10\Lab_10\Lab_10\Lab_10.cpp(90,71): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Илья\Desktop\Шиман\Алгоритмы и структуры данных\Labs\Lab_10\Lab_10\Lab_10\Lab_10.cpp(108,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Lab_10.vcxproj -> C:\Users\Илья\Desktop\Шиман\Алгоритмы и структуры данных\Labs\Lab_10\Lab_10\x64\Debug\Lab_10.exe

@@ -1,0 +1,4 @@
+﻿  Lab_08.cpp
+C:\Users\Илья\Desktop\Шиман\Алгоритмы и структуры данных\Labs\Lab_08\Lab_08\Lab_08\Lab_08.cpp(12,2): warning C4091: typedef : пропускается слева от "items", когда ни одна переменная не объявлена
+C:\Users\Илья\Desktop\Шиман\Алгоритмы и структуры данных\Labs\Lab_08\Lab_08\Lab_08\Lab_08.cpp(60,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Lab_08.vcxproj -> C:\Users\Илья\Desktop\Шиман\Алгоритмы и структуры данных\Labs\Lab_08\Lab_08\x64\Debug\Lab_08.exe

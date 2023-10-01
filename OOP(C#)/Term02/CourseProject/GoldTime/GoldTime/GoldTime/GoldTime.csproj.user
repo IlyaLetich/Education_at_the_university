@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\AdminPanel\AddNewsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\AdminPanel\AddWatchView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\AdminPanel\AdminPanelView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\AdminPanel\ListUsersView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Authentication\AuthenticationView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Authentication\LoginView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Authentication\RegistrationView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MainView\MainView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Settings\ChangeUserEmailView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Settings\ChangeUserNameView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Settings\ChangeUserPasswordView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Settings\LanguagesView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Settings\MainSettingsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Settings\SettingsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Settings\ThemesView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Shop\BasketView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Shop\ComparisonView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Shop\FilterView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Shop\NewsDescriptionView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Shop\NewsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Shop\OrdersView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Shop\ShopView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Shop\WatchDescriptionView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Resources\Styles\MainViewStyles.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\Templates\SettingsRadioButtonTemplates.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\Themes\Citrus.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\Themes\DarkBlue.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\Themes\FullWhite.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\Themes\Sakura.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\Themes\SpaceGray.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AdminPanel\AddNewsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AdminPanel\AddWatchView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AdminPanel\AdminPanelView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AdminPanel\ListUsersView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Authentication\AuthenticationView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Authentication\LoginView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Authentication\RegistrationView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainView\MainView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Settings\ChangeUserEmailView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Settings\ChangeUserNameView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Settings\ChangeUserPasswordView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Settings\LanguagesView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Settings\MainSettingsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Settings\SettingsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Settings\ThemesView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Shop\BasketView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Shop\ComparisonView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Shop\FilterView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Shop\NewsDescriptionView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Shop\NewsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Shop\OrdersView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Shop\ShopView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Shop\WatchDescriptionView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

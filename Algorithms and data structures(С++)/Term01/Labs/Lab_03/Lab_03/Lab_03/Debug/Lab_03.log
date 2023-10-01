@@ -1,0 +1,48 @@
+﻿Сборка начата 18.03.2022 15:41:17.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Lab_03.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Lab_03.cpp
+         Lab_03.cpp
+     1>C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(102,52): warning C4101: time_fast: неиспользованная локальная переменная
+     1>C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(102,10): warning C4101: time_bubble: неиспользованная локальная переменная
+     1>C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(101,11): warning C4101: start_shaker: неиспользованная локальная переменная
+     1>C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(101,39): warning C4101: end_shaker: неиспользованная локальная переменная
+     1>C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(101,107): warning C4101: end_fast: неиспользованная локальная переменная
+     1>C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(101,63): warning C4101: start_selection: неиспользованная локальная переменная
+     1>C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(101,25): warning C4101: start_bubble: неиспользованная локальная переменная
+     1>C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(101,80): warning C4101: end_selection: неиспользованная локальная переменная
+     1>C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(102,23): warning C4101: time_shaker: неиспользованная локальная переменная
+     1>C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(102,36): warning C4101: time_selection: неиспользованная локальная переменная
+     1>C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(101,51): warning C4101: end_bubble: неиспользованная локальная переменная
+     1>C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(101,95): warning C4101: start_fast: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Debug\Lab_03.exe" /INCREMENTAL /ILK:"Debug\Lab_03.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Debug\Lab_03.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Debug\Lab_03.lib" /MACHINE:X86 Debug\Lab_03.obj
+         Lab_03.vcxproj -> C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Debug\Lab_03.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab_03.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab_03.tlog\Lab_03.lastbuildstate".
+     1>Сборка проекта "C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(102,52): warning C4101: time_fast: неиспользованная локальная переменная
+         C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(102,10): warning C4101: time_bubble: неиспользованная локальная переменная
+         C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(101,11): warning C4101: start_shaker: неиспользованная локальная переменная
+         C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(101,39): warning C4101: end_shaker: неиспользованная локальная переменная
+         C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(101,107): warning C4101: end_fast: неиспользованная локальная переменная
+         C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(101,63): warning C4101: start_selection: неиспользованная локальная переменная
+         C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(101,25): warning C4101: start_bubble: неиспользованная локальная переменная
+         C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(101,80): warning C4101: end_selection: неиспользованная локальная переменная
+         C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(102,23): warning C4101: time_shaker: неиспользованная локальная переменная
+         C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(102,36): warning C4101: time_selection: неиспользованная локальная переменная
+         C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(101,51): warning C4101: end_bubble: неиспользованная локальная переменная
+         C:\Users\ilyac\OneDrive\Рабочий стол\Шиман\Лабы\Lab_03\Lab_03\Lab_03\Lab_03.cpp(101,95): warning C4101: start_fast: неиспользованная локальная переменная
+
+    Предупреждений: 12
+    Ошибок: 0
+
+Прошло времени 00:00:00.86

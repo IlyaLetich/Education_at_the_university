@@ -1,0 +1,15 @@
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_14\Lab_14\Lab_14\bin\Debug\net6.0\Lab_14.exe
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_14\Lab_14\Lab_14\bin\Debug\net6.0\Lab_14.deps.json
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_14\Lab_14\Lab_14\bin\Debug\net6.0\Lab_14.runtimeconfig.json
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_14\Lab_14\Lab_14\bin\Debug\net6.0\Lab_14.dll
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_14\Lab_14\Lab_14\bin\Debug\net6.0\Lab_14.pdb
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_14\Lab_14\Lab_14\obj\Debug\net6.0\Lab_14.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_14\Lab_14\Lab_14\obj\Debug\net6.0\Lab_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_14\Lab_14\Lab_14\obj\Debug\net6.0\Lab_14.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_14\Lab_14\Lab_14\obj\Debug\net6.0\Lab_14.AssemblyInfo.cs
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_14\Lab_14\Lab_14\obj\Debug\net6.0\Lab_14.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_14\Lab_14\Lab_14\obj\Debug\net6.0\Lab_14.dll
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_14\Lab_14\Lab_14\obj\Debug\net6.0\refint\Lab_14.dll
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_14\Lab_14\Lab_14\obj\Debug\net6.0\Lab_14.pdb
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_14\Lab_14\Lab_14\obj\Debug\net6.0\Lab_14.genruntimeconfig.cache
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_14\Lab_14\Lab_14\obj\Debug\net6.0\ref\Lab_14.dll

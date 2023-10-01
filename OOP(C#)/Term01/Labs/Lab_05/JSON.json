@@ -1,0 +1,20 @@
+[
+    {
+        "NameComponent" : "SamsungBuds",
+        "PriceComponent" : 14999,
+        "MassaComponent" : 0.100,
+        "VolumeComponent" : 0.057
+    },
+    {
+        "NameComponent" : "BMW",
+        "PriceComponent" : 149999,
+        "MassaComponent" : 100.100,
+        "VolumeComponent" : 3.600
+    },
+    {
+        "NameComponent" : "JBLPartyBox",
+        "PriceComponent" : 29999,
+        "MassaComponent" : 9.0,
+        "VolumeComponent" : 0.4
+    }
+]

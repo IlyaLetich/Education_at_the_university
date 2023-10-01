@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="12" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-05T00:22:45 MSK" name="Surefire suite" finished-at="2023-06-05T00:22:46 MSK" duration-ms="51">
+    <groups>
+      <group name="upBalanceAndUnblock">
+        <method signature="CardTest.testBalance()[pri:0, instance:unit_tests.CardTest@7f1302d6]" name="testBalance" class="unit_tests.CardTest"/>
+        <method signature="CardTest.testUnblpcked()[pri:0, instance:unit_tests.CardTest@7f1302d6]" name="testUnblpcked" class="unit_tests.CardTest"/>
+      </group> <!-- upBalanceAndUnblock -->
+    </groups>
+    <test started-at="2023-06-05T00:22:45 MSK" name="Surefire test" finished-at="2023-06-05T00:22:46 MSK" duration-ms="51">
+      <class name="unit_tests.CardTest">
+        <test-method is-config="true" signature="startTest()[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:45 MSK" name="startTest" finished-at="2023-06-05T00:22:45 MSK" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="startClassTest()[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="startClassTest" finished-at="2023-06-05T00:22:46 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startClassTest -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="beforeTest" finished-at="2023-06-05T00:22:46 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="mnogoDeneg()[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="mnogoDeneg" finished-at="2023-06-05T00:22:46 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mnogoDeneg -->
+        <test-method signature="blockedTest()[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="blockedTest" finished-at="2023-06-05T00:22:46 MSK" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blockedTest -->
+        <test-method is-config="true" signature="mnogoDeneg()[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="mnogoDeneg" finished-at="2023-06-05T00:22:46 MSK" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mnogoDeneg -->
+        <test-method signature="testBalance()[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="testBalance" finished-at="2023-06-05T00:22:46 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBalance -->
+        <test-method signature="testUnblpcked()[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="testUnblpcked" finished-at="2023-06-05T00:22:46 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUnblpcked -->
+        <test-method is-config="true" signature="mnogoDeneg()[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="mnogoDeneg" finished-at="2023-06-05T00:22:46 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mnogoDeneg -->
+        <test-method signature="TestCardAndBank()[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="TestCardAndBank" finished-at="2023-06-05T00:22:46 MSK" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCardAndBank -->
+        <test-method is-config="true" signature="mnogoDeneg()[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="mnogoDeneg" finished-at="2023-06-05T00:22:46 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mnogoDeneg -->
+        <test-method signature="testUpBalance(float,float)[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="testUpBalance" data-provider="testUpBalance" finished-at="2023-06-05T00:22:46 MSK" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpBalance -->
+        <test-method is-config="true" signature="mnogoDeneg()[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="mnogoDeneg" finished-at="2023-06-05T00:22:46 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mnogoDeneg -->
+        <test-method signature="testUpBalance(float,float)[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="testUpBalance" data-provider="testUpBalance" finished-at="2023-06-05T00:22:46 MSK" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpBalance -->
+        <test-method is-config="true" signature="mnogoDeneg()[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="mnogoDeneg" finished-at="2023-06-05T00:22:46 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mnogoDeneg -->
+        <test-method signature="testUpBalance(float,float)[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="testUpBalance" data-provider="testUpBalance" finished-at="2023-06-05T00:22:46 MSK" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpBalance -->
+        <test-method is-config="true" signature="mnogoDeneg()[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="mnogoDeneg" finished-at="2023-06-05T00:22:46 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mnogoDeneg -->
+        <test-method signature="unblockedTest()[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="unblockedTest" finished-at="2023-06-05T00:22:46 MSK" depends-on-methods="unit_tests.CardTest.blockedTest" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unblockedTest -->
+        <test-method is-config="true" signature="mnogoDeneg()[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="mnogoDeneg" finished-at="2023-06-05T00:22:46 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mnogoDeneg -->
+        <test-method signature="testPay(float,java.lang.String,float,float)[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="testPay" data-provider="dollar" depends-on-groups="upBalanceAndUnblock" finished-at="2023-06-05T00:22:46 MSK" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[unblocked]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPay -->
+        <test-method is-config="true" signature="mnogoDeneg()[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="mnogoDeneg" finished-at="2023-06-05T00:22:46 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mnogoDeneg -->
+        <test-method signature="testPay(float,java.lang.String,float,float)[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="testPay" data-provider="dollar" depends-on-groups="upBalanceAndUnblock" finished-at="2023-06-05T00:22:46 MSK" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[777]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[blocked]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPay -->
+        <test-method is-config="true" signature="mnogoDeneg()[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="mnogoDeneg" finished-at="2023-06-05T00:22:46 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mnogoDeneg -->
+        <test-method is-config="true" signature="mnogoDeneg()[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="mnogoDeneg" finished-at="2023-06-05T00:22:46 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mnogoDeneg -->
+        <test-method signature="testPay(float,java.lang.String,float,float)[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="testPay" data-provider="dollar" depends-on-groups="upBalanceAndUnblock" finished-at="2023-06-05T00:22:46 MSK" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[777]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[unblocked]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[223]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPay -->
+        <test-method is-config="true" signature="endClass()[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="endClass" finished-at="2023-06-05T00:22:46 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endClass -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="endTest" finished-at="2023-06-05T00:22:46 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="endTestSuite()[pri:0, instance:unit_tests.CardTest@7f1302d6]" started-at="2023-06-05T00:22:46 MSK" name="endTestSuite" finished-at="2023-06-05T00:22:46 MSK" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTestSuite -->
+      </class> <!-- unit_tests.CardTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

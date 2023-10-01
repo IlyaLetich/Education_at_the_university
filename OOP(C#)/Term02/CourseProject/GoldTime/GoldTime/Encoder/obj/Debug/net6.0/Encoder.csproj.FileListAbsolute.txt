@@ -1,0 +1,12 @@
+E:\CourseProject\GoldTime\GoldTime\Encoder\bin\Debug\net6.0\Encoder.deps.json
+E:\CourseProject\GoldTime\GoldTime\Encoder\bin\Debug\net6.0\Encoder.dll
+E:\CourseProject\GoldTime\GoldTime\Encoder\bin\Debug\net6.0\Encoder.pdb
+E:\CourseProject\GoldTime\GoldTime\Encoder\obj\Debug\net6.0\Encoder.csproj.AssemblyReference.cache
+E:\CourseProject\GoldTime\GoldTime\Encoder\obj\Debug\net6.0\Encoder.GeneratedMSBuildEditorConfig.editorconfig
+E:\CourseProject\GoldTime\GoldTime\Encoder\obj\Debug\net6.0\Encoder.AssemblyInfoInputs.cache
+E:\CourseProject\GoldTime\GoldTime\Encoder\obj\Debug\net6.0\Encoder.AssemblyInfo.cs
+E:\CourseProject\GoldTime\GoldTime\Encoder\obj\Debug\net6.0\Encoder.csproj.CoreCompileInputs.cache
+E:\CourseProject\GoldTime\GoldTime\Encoder\obj\Debug\net6.0\Encoder.dll
+E:\CourseProject\GoldTime\GoldTime\Encoder\obj\Debug\net6.0\refint\Encoder.dll
+E:\CourseProject\GoldTime\GoldTime\Encoder\obj\Debug\net6.0\Encoder.pdb
+E:\CourseProject\GoldTime\GoldTime\Encoder\obj\Debug\net6.0\ref\Encoder.dll

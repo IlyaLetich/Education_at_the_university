@@ -1,0 +1,14 @@
+﻿  ConcurrentServer.cpp
+C:\Users\ilyac\OneDrive\Рабочий стол\Программирование сетевых приложений\Labs\Lab08-10\ConcurrentServer\ConcurrentServer.cpp(177,11): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "unsigned __int64"
+C:\Users\ilyac\OneDrive\Рабочий стол\Программирование сетевых приложений\Labs\Lab08-10\ConcurrentServer\ConcurrentServer.cpp(177,11): message : рекомендуется использовать "%zd" в строке форматирования
+C:\Users\ilyac\OneDrive\Рабочий стол\Программирование сетевых приложений\Labs\Lab08-10\ConcurrentServer\ConcurrentServer.cpp(189,11): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "unsigned __int64"
+C:\Users\ilyac\OneDrive\Рабочий стол\Программирование сетевых приложений\Labs\Lab08-10\ConcurrentServer\ConcurrentServer.cpp(189,11): message : рекомендуется использовать "%zd" в строке форматирования
+C:\Users\ilyac\OneDrive\Рабочий стол\Программирование сетевых приложений\Labs\Lab08-10\ConcurrentServer\ConcurrentServer.cpp(301,1): warning C4477: "sprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "4" имеет тип "unsigned __int64"
+C:\Users\ilyac\OneDrive\Рабочий стол\Программирование сетевых приложений\Labs\Lab08-10\ConcurrentServer\ConcurrentServer.cpp(301,1): message : рекомендуется использовать "%zd" в строке форматирования
+C:\Users\ilyac\OneDrive\Рабочий стол\Программирование сетевых приложений\Labs\Lab08-10\ConcurrentServer\ConcurrentServer.cpp(310,61): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\ilyac\OneDrive\Рабочий стол\Программирование сетевых приложений\Labs\Lab08-10\ConcurrentServer\ConcurrentServer.cpp(353,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ilyac\OneDrive\Рабочий стол\Программирование сетевых приложений\Labs\Lab08-10\ConcurrentServer\ConcurrentServer.cpp(369,57): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ilyac\OneDrive\Рабочий стол\Программирование сетевых приложений\Labs\Lab08-10\ConcurrentServer\ConcurrentServer.cpp(405,10): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ilyac\OneDrive\Рабочий стол\Программирование сетевых приложений\Labs\Lab08-10\ConcurrentServer\ConcurrentServer.cpp(413,10): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ilyac\OneDrive\Рабочий стол\Программирование сетевых приложений\Labs\Lab08-10\ConcurrentServer\ConcurrentServer.cpp(242): warning C4715: set_param: значение возвращается не при всех путях выполнения
+  ConcurrentServer.vcxproj -> C:\Users\ilyac\OneDrive\Рабочий стол\Программирование сетевых приложений\Labs\Lab08-10\x64\Debug\ConcurrentServer.exe

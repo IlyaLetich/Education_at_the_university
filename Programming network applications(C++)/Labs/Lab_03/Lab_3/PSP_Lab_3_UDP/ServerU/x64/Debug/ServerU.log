@@ -1,0 +1,2 @@
+﻿  ServerU.cpp
+D:\4 семестр\ПСП\Lab_3\PSP_Lab_3_UDP\ServerU\ServerU.cpp(41): error C4700: использована неинициализированная локальная переменная "cS"

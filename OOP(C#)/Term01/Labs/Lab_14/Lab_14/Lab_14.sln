@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab_14", "Lab_14\Lab_14.csproj", "{8C960F2F-5A6E-4582-B429-5A346110B6F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTube", "YouTube\YouTube.csproj", "{85E6641E-DE21-4518-88B2-27C6BC3CAF5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store", "Store\Store.csproj", "{EA9706A0-671C-4572-9ECD-B79D5C6CE7FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C960F2F-5A6E-4582-B429-5A346110B6F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C960F2F-5A6E-4582-B429-5A346110B6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C960F2F-5A6E-4582-B429-5A346110B6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C960F2F-5A6E-4582-B429-5A346110B6F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85E6641E-DE21-4518-88B2-27C6BC3CAF5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E6641E-DE21-4518-88B2-27C6BC3CAF5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85E6641E-DE21-4518-88B2-27C6BC3CAF5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85E6641E-DE21-4518-88B2-27C6BC3CAF5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA9706A0-671C-4572-9ECD-B79D5C6CE7FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA9706A0-671C-4572-9ECD-B79D5C6CE7FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA9706A0-671C-4572-9ECD-B79D5C6CE7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA9706A0-671C-4572-9ECD-B79D5C6CE7FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03E5FBA0-A087-41FA-A421-61821CE3551B}
+	EndGlobalSection
+EndGlobal

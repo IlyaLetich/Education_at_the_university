@@ -1,0 +1,70 @@
+﻿<Page
+    x:Class="GoldTime.Views.Shop.OrdersView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:controls="clr-namespace:Controls;assembly=Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:GoldTime.Views.Shop"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="OrdersView"
+    d:DesignHeight="450"
+    d:DesignWidth="800"
+    mc:Ignorable="d">
+
+    <Grid>
+        <DataGrid
+            x:Name="ordersGrid"
+            AutoGenerateColumns="False"
+            Background="Transparent"
+            CanUserAddRows="True"
+            ColumnWidth="*"
+            Foreground="{DynamicResource ColorContent}"
+            IsReadOnly="True"
+            ItemsSource="{Binding Orders}">
+            <DataGrid.Resources>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="Background" Value="Transparent" />
+                    <Setter Property="Foreground" Value="{DynamicResource ColorContent}" />
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn
+                    Width="*"
+                    Binding="{Binding Id}"
+                    Foreground="{DynamicResource ColorContent}"
+                    IsReadOnly="True">
+                    <DataGridTextColumn.Header>
+                        <Label Content="{DynamicResource NumberOrder}" Foreground="{DynamicResource ColorContent}" />
+                    </DataGridTextColumn.Header>
+                </DataGridTextColumn>
+                <DataGridTextColumn
+                    Width="*"
+                    Binding="{Binding QuentityWatchOrder}"
+                    Foreground="{DynamicResource ColorContent}"
+                    IsReadOnly="True">
+                    <DataGridTextColumn.Header>
+                        <Label Content="{DynamicResource CountWatch}" Foreground="{DynamicResource ColorContent}" />
+                    </DataGridTextColumn.Header>
+                </DataGridTextColumn>
+                <DataGridTextColumn
+                    Width="*"
+                    Binding="{Binding PriceOrder}"
+                    Foreground="{DynamicResource ColorContent}"
+                    IsReadOnly="True">
+                    <DataGridTextColumn.Header>
+                        <Label Content="{DynamicResource PriceOrders}" Foreground="{DynamicResource ColorContent}" />
+                    </DataGridTextColumn.Header>
+                </DataGridTextColumn>
+
+                <DataGridTextColumn
+                    Width="*"
+                    Binding="{Binding DateOrder}"
+                    Foreground="{DynamicResource ColorContent}">
+                    <DataGridTextColumn.Header>
+                        <Label Content="{DynamicResource DateOrder}" Foreground="{DynamicResource ColorContent}" />
+                    </DataGridTextColumn.Header>
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Page>

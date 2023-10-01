@@ -1,0 +1,89 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Images\AdminPanel\AddNews.png" />
+    <None Remove="Resources\Images\AdminPanel\AddWatch.png" />
+    <None Remove="Resources\Images\AdminPanel\ListUsers.png" />
+    <None Remove="Resources\Images\Application\App.png" />
+    <None Remove="Resources\Images\Application\Back.png" />
+    <None Remove="Resources\Images\Application\Close.png" />
+    <None Remove="Resources\Images\DefaultImages\DefaultNews.png" />
+    <None Remove="Resources\Images\DefaultImages\DefaultUser.png" />
+    <None Remove="Resources\Images\DefaultImages\DefaultWatch.png" />
+    <None Remove="Resources\Images\Description\Delete.png" />
+    <None Remove="Resources\Images\Description\Edit.png" />
+    <None Remove="Resources\Images\MainView\AdminPanel.png" />
+    <None Remove="Resources\Images\MainView\Busket.png" />
+    <None Remove="Resources\Images\MainView\Comparison.png" />
+    <None Remove="Resources\Images\MainView\News.png" />
+    <None Remove="Resources\Images\MainView\Orders.png" />
+    <None Remove="Resources\Images\MainView\Settings.png" />
+    <None Remove="Resources\Images\MainView\Shop.png" />
+    <None Remove="Resources\Images\Settings\Avatar.png" />
+    <None Remove="Resources\Images\Settings\Email.png" />
+    <None Remove="Resources\Images\Settings\Exit.png" />
+    <None Remove="Resources\Images\Settings\Language.png" />
+    <None Remove="Resources\Images\Settings\Languages\English.jpg" />
+    <None Remove="Resources\Images\Settings\Languages\Russian.jpg" />
+    <None Remove="Resources\Images\Settings\Name.png" />
+    <None Remove="Resources\Images\Settings\Password.png" />
+    <None Remove="Resources\Images\Settings\Theme.png" />
+    <None Remove="Resources\Images\Shop\Comparison.png" />
+    <None Remove="Resources\Images\Shop\Filter.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignThemes" Version="4.9.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.0-preview.3.23174.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.0-preview.3.23174.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Controls\Controls.csproj" />
+    <ProjectReference Include="..\Encoder\Encoder.csproj" />
+    <ProjectReference Include="..\Validator\Validator.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\Images\AdminPanel\AddNews.png" />
+    <Resource Include="Resources\Images\AdminPanel\AddWatch.png" />
+    <Resource Include="Resources\Images\AdminPanel\ListUsers.png" />
+    <Resource Include="Resources\Images\Application\App.png" />
+    <Resource Include="Resources\Images\Application\Back.png" />
+    <Resource Include="Resources\Images\Application\Close.png" />
+    <Resource Include="Resources\Images\DefaultImages\DefaultNews.png" />
+    <Resource Include="Resources\Images\DefaultImages\DefaultUser.png" />
+    <Resource Include="Resources\Images\DefaultImages\DefaultWatch.png" />
+    <Resource Include="Resources\Images\Description\Delete.png" />
+    <Resource Include="Resources\Images\Description\Edit.png" />
+    <Resource Include="Resources\Images\MainView\AdminPanel.png" />
+    <Resource Include="Resources\Images\MainView\Busket.png" />
+    <Resource Include="Resources\Images\MainView\Comparison.png" />
+    <Resource Include="Resources\Images\MainView\Orders.png" />
+    <Resource Include="Resources\Images\MainView\News.png" />
+    <Resource Include="Resources\Images\MainView\Settings.png" />
+    <Resource Include="Resources\Images\MainView\Shop.png" />
+    <Resource Include="Resources\Images\Settings\Avatar.png" />
+    <Resource Include="Resources\Images\Settings\Email.png" />
+    <Resource Include="Resources\Images\Settings\Exit.png" />
+    <Resource Include="Resources\Images\Settings\Language.png" />
+    <Resource Include="Resources\Images\Settings\Languages\English.jpg" />
+    <Resource Include="Resources\Images\Settings\Languages\Russian.jpg" />
+    <Resource Include="Resources\Images\Settings\Name.png" />
+    <Resource Include="Resources\Images\Settings\Password.png" />
+    <Resource Include="Resources\Images\Settings\Theme.png" />
+    <Resource Include="Resources\Images\Shop\Comparison.png" />
+    <Resource Include="Resources\Images\Shop\Filter.png" />
+  </ItemGroup>
+
+</Project>

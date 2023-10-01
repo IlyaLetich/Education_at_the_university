@@ -1,0 +1,15 @@
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_10\Lab_10\Lab_10\bin\Debug\net6.0\Lab_10.exe
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_10\Lab_10\Lab_10\bin\Debug\net6.0\Lab_10.deps.json
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_10\Lab_10\Lab_10\bin\Debug\net6.0\Lab_10.runtimeconfig.json
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_10\Lab_10\Lab_10\bin\Debug\net6.0\Lab_10.dll
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_10\Lab_10\Lab_10\bin\Debug\net6.0\Lab_10.pdb
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_10\Lab_10\Lab_10\obj\Debug\net6.0\Lab_10.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_10\Lab_10\Lab_10\obj\Debug\net6.0\Lab_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_10\Lab_10\Lab_10\obj\Debug\net6.0\Lab_10.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_10\Lab_10\Lab_10\obj\Debug\net6.0\Lab_10.AssemblyInfo.cs
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_10\Lab_10\Lab_10\obj\Debug\net6.0\Lab_10.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_10\Lab_10\Lab_10\obj\Debug\net6.0\Lab_10.dll
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_10\Lab_10\Lab_10\obj\Debug\net6.0\refint\Lab_10.dll
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_10\Lab_10\Lab_10\obj\Debug\net6.0\Lab_10.pdb
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_10\Lab_10\Lab_10\obj\Debug\net6.0\Lab_10.genruntimeconfig.cache
+C:\Users\Илья\Desktop\Пацей\ООП\Labs\Lab_10\Lab_10\Lab_10\obj\Debug\net6.0\ref\Lab_10.dll

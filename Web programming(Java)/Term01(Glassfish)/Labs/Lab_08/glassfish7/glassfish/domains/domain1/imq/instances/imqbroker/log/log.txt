@@ -1,0 +1,308 @@
+[#|2023-04-28T00:38:19.912+0300|FORCE|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|
+================================================================================
+Message Queue 6.3.0
+Oracle
+Version:  6.3.0  (Build 1-a)
+Compile:  June 15 2022
+
+Copyright (c) 2013, 2018 Oracle and/or its affiliates.  All rights reserved.
+Copyright (c) 2018, 2022 Contributors to Eclipse Foundation.
+================================================================================
+Java Runtime: 19.0.2 Oracle Corporation C:\Program Files\Java\jdk-19
+|#]
+
+
+[#|2023-04-28T00:38:19.934+0300|FORCE|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|   IMQ_HOME=C:\Users\ilyac\OneDrive\Рабочий стол\Java\Labs\Lab_08\glassfish7\mq
+|#]
+
+
+[#|2023-04-28T00:38:19.934+0300|FORCE|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|IMQ_VARHOME=C:\Users\ilyac\OneDrive\Рабочий стол\Java\Labs\Lab_08\glassfish7\glassfish\domains\domain1\imq
+|#]
+
+
+[#|2023-04-28T00:38:19.996+0300|FORCE|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Windows 11 10.0 amd64 10.0.33.60 (12 cpu) ilyac
+|#]
+
+
+[#|2023-04-28T00:38:20.001+0300|FORCE|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Java Heap Size: max=196608k, current=16384k
+|#]
+
+
+[#|2023-04-28T00:38:20.002+0300|FORCE|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Arguments: 
+|#]
+
+
+[#|2023-04-28T00:38:20.010+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1522]: Create thread pool portmapper for (12, 12)(60s) service
+|#]
+
+
+[#|2023-04-28T00:38:20.023+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the portmapper service using tcp [ 7676, 50, * ] with min threads 1 and max threads of 1 
+|#]
+
+
+[#|2023-04-28T00:38:20.036+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|imq.persist.minimizeWrites=true
+|#]
+
+
+[#|2023-04-28T00:38:20.036+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|imq.persist.file.minimizeWrites=false
+|#]
+
+
+[#|2023-04-28T00:38:20.039+0300|FORCE|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1060]: Loading persistent data...
+|#]
+
+
+[#|2023-04-28T00:38:20.039+0300|FORCE|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Using built-in file-based persistent store: C:\Users\ilyac\OneDrive\Рабочий стол\Java\Labs\Lab_08\glassfish7\glassfish\domains\domain1\imq\instances\imqbroker\
+|#]
+
+
+[#|2023-04-28T00:38:20.069+0300|WARNING|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|WARNING Existing file: incompleteTxnStorehas older cookie version than current version. Current version = 1. Original file version = 0
+|#]
+
+
+[#|2023-04-28T00:38:20.077+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B2219]: Broker property setting imq.persist.minimizeWritesLevel2=true will be ignored
+|#]
+
+
+[#|2023-04-28T00:38:20.084+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1041]: Cluster initialization successful.
+|#]
+
+
+[#|2023-04-28T00:38:20.101+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1013]: Auto Creation of Queues is enabled
+|#]
+
+
+[#|2023-04-28T00:38:20.113+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|new transaction log enabled
+|#]
+
+
+[#|2023-04-28T00:38:20.113+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|sync writes to disk = false
+|#]
+
+
+[#|2023-04-28T00:38:20.113+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|logNonTransactedMsgSend = false
+|#]
+
+
+[#|2023-04-28T00:38:20.113+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|logNonTransactedMsgAck = false
+|#]
+
+
+[#|2023-04-28T00:38:20.113+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1392]: Opening transaction log with file mode rw, maximum size 10 485 760 bytes
+|#]
+
+
+[#|2023-04-28T00:38:20.121+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1136]: Processing stored transactions
+|#]
+
+
+[#|2023-04-28T00:38:20.128+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1390]: Loading of transactions has been successfully completed
+|#]
+
+
+[#|2023-04-28T00:38:20.128+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1434]: Retrieving stored destinations
+|#]
+
+
+[#|2023-04-28T00:38:20.128+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1503]: Retrieved 0 destinations from store
+|#]
+
+
+[#|2023-04-28T00:38:20.128+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1144]: Creating Dead Message Queue
+|#]
+
+
+[#|2023-04-28T00:38:20.132+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1158]: Administrator has created destination mq.sys.dmq [Queue]
+|#]
+
+
+[#|2023-04-28T00:38:20.260+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1239]: Using platform MBean server
+|#]
+
+
+[#|2023-04-28T00:38:20.331+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1234]: JMX Connector Server jmxrmi started successfully with url service:jmx:rmi://IlyaChernikin/stub/rO0ABXNyAC5qYXZheC5tYW5hZ2VtZW50LnJlbW90ZS5ybWkuUk1JU2VydmVySW1wbF9TdHViAAAAAAAAAAICAAB4cgAaamF2YS5ybWkuc2VydmVyLlJlbW90ZVN0dWLp/tzJi+FlGgIAAHhyABxqYXZhLnJtaS5zZXJ2ZXIuUmVtb3RlT2JqZWN002G0kQxhMx4DAAB4cHczAApVbmljYXN0UmVmAAoxMC4wLjMzLjYwAADE/lPGYKiaJiDnjfe32QAAAYfEpyH0gAEAeA==
+|#]
+
+
+[#|2023-04-28T00:38:20.363+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the admin service using tcp(host = *, port=0, mode=dedicated) with min threads 4 and max threads of 10 
+|#]
+
+
+[#|2023-04-28T00:38:20.363+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1227]: Using file user repository for admin service connection authentication
+|#]
+
+
+[#|2023-04-28T00:38:20.366+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the jms service using tcp(host = *, port=0, mode=dedicated) with min threads 10 and max threads of 1000 
+|#]
+
+
+[#|2023-04-28T00:38:20.366+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1227]: Using file user repository for jms service connection authentication
+|#]
+
+
+[#|2023-04-28T00:38:20.373+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the cluster service using tcp [ 0.0.0.0/0.0.0.0:50433 ] with min threads 1 and max threads of 1 
+|#]
+
+
+[#|2023-04-28T00:38:20.373+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1228]: Cluster ping interval is 60 seconds
+|#]
+
+
+[#|2023-04-28T00:38:20.374+0300|FORCE|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1039]: Broker "imqbroker@10.0.33.60:7676" ready.
+|#]
+
+
+[#|2023-04-28T00:42:27.294+0300|FORCE|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|
+================================================================================
+Message Queue 6.3.0
+Oracle
+Version:  6.3.0  (Build 1-a)
+Compile:  June 15 2022
+
+Copyright (c) 2013, 2018 Oracle and/or its affiliates.  All rights reserved.
+Copyright (c) 2018, 2022 Contributors to Eclipse Foundation.
+================================================================================
+Java Runtime: 19.0.2 Oracle Corporation C:\Program Files\Java\jdk-19
+|#]
+
+
+[#|2023-04-28T00:42:27.310+0300|FORCE|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|   IMQ_HOME=C:\Users\ilyac\OneDrive\Рабочий стол\Java\Labs\Lab_08\glassfish7\mq
+|#]
+
+
+[#|2023-04-28T00:42:27.310+0300|FORCE|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|IMQ_VARHOME=C:\Users\ilyac\OneDrive\Рабочий стол\Java\Labs\Lab_08\glassfish7\glassfish\domains\domain1\imq
+|#]
+
+
+[#|2023-04-28T00:42:27.366+0300|FORCE|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Windows 11 10.0 amd64 10.0.33.60 (12 cpu) ilyac
+|#]
+
+
+[#|2023-04-28T00:42:27.370+0300|FORCE|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Java Heap Size: max=196608k, current=16384k
+|#]
+
+
+[#|2023-04-28T00:42:27.370+0300|FORCE|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Arguments: 
+|#]
+
+
+[#|2023-04-28T00:42:27.372+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1522]: Create thread pool portmapper for (12, 12)(60s) service
+|#]
+
+
+[#|2023-04-28T00:42:27.387+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the portmapper service using tcp [ 7676, 50, * ] with min threads 1 and max threads of 1 
+|#]
+
+
+[#|2023-04-28T00:42:27.397+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|imq.persist.minimizeWrites=true
+|#]
+
+
+[#|2023-04-28T00:42:27.397+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|imq.persist.file.minimizeWrites=false
+|#]
+
+
+[#|2023-04-28T00:42:27.402+0300|FORCE|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1060]: Loading persistent data...
+|#]
+
+
+[#|2023-04-28T00:42:27.402+0300|FORCE|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|Using built-in file-based persistent store: C:\Users\ilyac\OneDrive\Рабочий стол\Java\Labs\Lab_08\glassfish7\glassfish\domains\domain1\imq\instances\imqbroker\
+|#]
+
+
+[#|2023-04-28T00:42:27.450+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B2219]: Broker property setting imq.persist.minimizeWritesLevel2=true will be ignored
+|#]
+
+
+[#|2023-04-28T00:42:27.460+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1041]: Cluster initialization successful.
+|#]
+
+
+[#|2023-04-28T00:42:27.474+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1013]: Auto Creation of Queues is enabled
+|#]
+
+
+[#|2023-04-28T00:42:27.489+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|new transaction log enabled
+|#]
+
+
+[#|2023-04-28T00:42:27.489+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|sync writes to disk = false
+|#]
+
+
+[#|2023-04-28T00:42:27.489+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|logNonTransactedMsgSend = false
+|#]
+
+
+[#|2023-04-28T00:42:27.489+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|logNonTransactedMsgAck = false
+|#]
+
+
+[#|2023-04-28T00:42:27.489+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1392]: Opening transaction log with file mode rw, maximum size 10 485 760 bytes
+|#]
+
+
+[#|2023-04-28T00:42:27.494+0300|FORCE|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1270]: Processing messages from transaction log file...
+|#]
+
+
+[#|2023-04-28T00:42:27.494+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1434]: Retrieving stored destinations
+|#]
+
+
+[#|2023-04-28T00:42:27.495+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1503]: Retrieved 1 destinations from store
+|#]
+
+
+[#|2023-04-28T00:42:27.495+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1151]: Loading destination mq.sys.dmq [Queue] with 0 messages
+|#]
+
+
+[#|2023-04-28T00:42:27.497+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1152]: Loading of destination mq.sys.dmq [Queue] complete
+|#]
+
+
+[#|2023-04-28T00:42:27.499+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1136]: Processing stored transactions
+|#]
+
+
+[#|2023-04-28T00:42:27.501+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1390]: Loading of transactions has been successfully completed
+|#]
+
+
+[#|2023-04-28T00:42:27.578+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1239]: Using platform MBean server
+|#]
+
+
+[#|2023-04-28T00:42:27.636+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1234]: JMX Connector Server jmxrmi started successfully with url service:jmx:rmi://IlyaChernikin/stub/rO0ABXNyAC5qYXZheC5tYW5hZ2VtZW50LnJlbW90ZS5ybWkuUk1JU2VydmVySW1wbF9TdHViAAAAAAAAAAICAAB4cgAaamF2YS5ybWkuc2VydmVyLlJlbW90ZVN0dWLp/tzJi+FlGgIAAHhyABxqYXZhLnJtaS5zZXJ2ZXIuUmVtb3RlT2JqZWN002G0kQxhMx4DAAB4cHczAApVbmljYXN0UmVmAAoxMC4wLjMzLjYwAADGmEerZV+ul+QiuqO54QAAAYfEqugFgAEAeA==
+|#]
+
+
+[#|2023-04-28T00:42:27.663+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the admin service using tcp(host = *, port=0, mode=dedicated) with min threads 4 and max threads of 10 
+|#]
+
+
+[#|2023-04-28T00:42:27.663+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1227]: Using file user repository for admin service connection authentication
+|#]
+
+
+[#|2023-04-28T00:42:27.666+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the jms service using tcp(host = *, port=0, mode=dedicated) with min threads 10 and max threads of 1000 
+|#]
+
+
+[#|2023-04-28T00:42:27.667+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1227]: Using file user repository for jms service connection authentication
+|#]
+
+
+[#|2023-04-28T00:42:27.673+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1004]: Starting the cluster service using tcp [ 0.0.0.0/0.0.0.0:50843 ] with min threads 1 and max threads of 1 
+|#]
+
+
+[#|2023-04-28T00:42:27.673+0300|INFO|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1228]: Cluster ping interval is 60 seconds
+|#]
+
+
+[#|2023-04-28T00:42:27.677+0300|FORCE|6.3.0|imq.log.Logger|_ThreadID=1;_ThreadName=main;|[B1039]: Broker "imqbroker@10.0.33.60:7676" ready.
+|#]
+
+

@@ -1,0 +1,4 @@
+﻿  ClientU.cpp
+C:\Users\ilyac\OneDrive\Рабочий стол\ПСП Шиман\Labs\Lab_03\Lab_3\PSP_Lab_3_UDP\ClientU\ClientU.cpp(40,24): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\ilyac\OneDrive\Рабочий стол\ПСП Шиман\Labs\Lab_03\Lab_3\PSP_Lab_3_UDP\ClientU\ClientU.cpp(54,24): warning C4018: <=: несоответствие типов со знаком и без знака
+  ClientU.vcxproj -> C:\Users\ilyac\OneDrive\Рабочий стол\ПСП Шиман\Labs\Lab_03\Lab_3\PSP_Lab_3_UDP\Debug\ClientU.exe

@@ -1,0 +1,93 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <!--  Name application  -->
+    <system:String x:Key="NameApplication">Золотое время</system:String>
+
+    <!--  MainView  -->
+    <system:String x:Key="AdminPanel">Админ</system:String>
+    <system:String x:Key="News">Новости</system:String>
+    <system:String x:Key="Shop">Магазин</system:String>
+    <system:String x:Key="Basket">Корзина</system:String>
+    <system:String x:Key="Orders">Заказы</system:String>
+    <system:String x:Key="Settings">Настройки</system:String>
+    <system:String x:Key="Comparison">Сравнение</system:String>
+
+    <!--  AdminPanel  -->
+    <system:String x:Key="AddWatch">Доб.часы</system:String>
+    <system:String x:Key="ListUsers">Спис.поль.</system:String>
+    <system:String x:Key="AddNews">Доб.нов.</system:String>
+
+    <!--  Settings  -->
+    <system:String x:Key="SettingsPageName">Настройки</system:String>
+    <system:String x:Key="Themes">Тема приложения</system:String>
+    <system:String x:Key="Languages">Язык приложения</system:String>
+    <system:String x:Key="ChangeUserName">Изменить имя</system:String>
+    <system:String x:Key="ChangeUserAvatar">Изменить аватарку</system:String>
+    <system:String x:Key="ChangeUserEmail">Изменить почту</system:String>
+    <system:String x:Key="ChangeUserPassword">Изменить пароль</system:String>
+    <system:String x:Key="Exit">Выход</system:String>
+
+    <!--  Authentication  -->
+    <system:String x:Key="Login">Войти</system:String>
+    <system:String x:Key="Registration">Регистрация</system:String>
+    <system:String x:Key="EnterEName">Введите имя</system:String>
+    <system:String x:Key="EnterYourEmail">Введите почту</system:String>
+    <system:String x:Key="EnterThePassword">Введите пароль</system:String>
+    <system:String x:Key="ConfirmYourPassword">Подтвердите пароль</system:String>
+    <system:String x:Key="ChooseAnAvatar">Выбрать аватарку</system:String>
+
+    <!--  Description Watch  -->
+    <system:String x:Key="NameModel">Название модели</system:String>
+    <system:String x:Key="Producer">Производитель</system:String>
+    <system:String x:Key="Price">Цена</system:String>
+    <system:String x:Key="Description">Описание</system:String>
+    <system:String x:Key="AddToBasket">В корзину</system:String>
+    <system:String x:Key="AddToComparison">В сравнение</system:String>
+
+    <!--  Description News  -->
+    <system:String x:Key="Published">Опубликовано</system:String>
+
+    <!--  Create News  -->
+    <system:String x:Key="CreateNews">Добавить новость</system:String>
+    <system:String x:Key="AddNewsInList">Опубликовать</system:String>
+    <system:String x:Key="NameNews">Название новости</system:String>
+    <system:String x:Key="EnterImageNews">Выбрать фото</system:String>
+    <system:String x:Key="DescriptionNews">Описание новости</system:String>
+
+    <!--  Create Watch  -->
+    <system:String x:Key="CreateWatch">Добавить часы</system:String>
+    <system:String x:Key="AddWatchInList">Добавить часы</system:String>
+    <system:String x:Key="EnterImageWatch">Выбрать фото</system:String>
+
+    <!--  List users  -->
+    <system:String x:Key="Name">Имя</system:String>
+    <system:String x:Key="Email">Почта</system:String>
+
+    <!--  Basket  -->
+    <system:String x:Key="ResultPrice">Итого:</system:String>
+    <system:String x:Key="Buy">Купить</system:String>
+
+    <!--  Orders  -->
+    <system:String x:Key="NumberOrder">Номер заказа</system:String>
+    <system:String x:Key="CountWatch">Количество часов</system:String>
+    <system:String x:Key="PriceOrders">Сумма заказа</system:String>
+    <system:String x:Key="DateOrder">Дата заказа</system:String>
+
+    <!--  Application  -->
+    <system:String x:Key="ClearFields">Очистить поля</system:String>
+    <system:String x:Key="Save">Сохранить</system:String>
+    <system:String x:Key="ImageWatch">Фото</system:String>
+
+    <!--  Errors  -->
+    <system:String x:Key="EnterNameError">Введите имя</system:String>
+    <system:String x:Key="UserError">Пользователь не найден</system:String>
+    <system:String x:Key="UserBlock">Имя занято</system:String>
+    <system:String x:Key="EnterEmailError">Введите почту</system:String>
+    <system:String x:Key="EnterPasswordError">Введите пароль</system:String>
+    <system:String x:Key="EnterPasswordError2">Подтвердите пароль</system:String>
+    <system:String x:Key="EnterPasswordErrorNoSov">Пароли не совпадают</system:String>
+    <system:String x:Key="FieldsEmpty">Поля пустые</system:String>
+
+</ResourceDictionary>

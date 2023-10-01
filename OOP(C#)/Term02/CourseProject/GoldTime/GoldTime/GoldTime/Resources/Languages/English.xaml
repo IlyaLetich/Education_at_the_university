@@ -1,0 +1,93 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <!--  Name application  -->
+    <system:String x:Key="NameApplication">Golden Time</system:String>
+
+    <!--  MainView  -->
+    <system:String x:Key="AdminPanel">Admin</system:String>
+    <system:String x:Key="News">News</system:String>
+    <system:String x:Key="Shop">Shop</system:String>
+    <system:String x:Key="Basket">Basket</system:String>
+    <system:String x:Key="Orders">Orders</system:String>
+    <system:String x:Key="Settings">Settings</system:String>
+    <system:String x:Key="Comparison">Comparison</system:String>
+
+    <!--  AdminPanel  -->
+    <system:String x:Key="AddWatch">AddWatch</system:String>
+    <system:String x:Key="ListUsers">ListUsers</system:String>
+    <system:String x:Key="AddNews">AddNews</system:String>
+
+    <!--  Settings  -->
+    <system:String x:Key="SettingsPageName">Settings</system:String>
+    <system:String x:Key="Themes">Themes</system:String>
+    <system:String x:Key="Languages">Languages</system:String>
+    <system:String x:Key="ChangeUserName">Change user name</system:String>
+    <system:String x:Key="ChangeUserAvatar">Change user avatar</system:String>
+    <system:String x:Key="ChangeUserEmail">Change user email</system:String>
+    <system:String x:Key="ChangeUserPassword">Change user password</system:String>
+    <system:String x:Key="Exit">Exit</system:String>
+
+    <!--  Authentication  -->
+    <system:String x:Key="Login">Login</system:String>
+    <system:String x:Key="Registration">Registration</system:String>
+    <system:String x:Key="EnterEName">Enter e name</system:String>
+    <system:String x:Key="EnterYourEmail">Enter your email</system:String>
+    <system:String x:Key="EnterThePassword">Enter the password</system:String>
+    <system:String x:Key="ConfirmYourPassword">Confirm your password</system:String>
+    <system:String x:Key="ChooseAnAvatar">Choose an avatar</system:String>
+
+    <!--  Description Watch  -->
+    <system:String x:Key="NameModel">Name model</system:String>
+    <system:String x:Key="Producer">Producer</system:String>
+    <system:String x:Key="Price">Price</system:String>
+    <system:String x:Key="Description">Description</system:String>
+    <system:String x:Key="AddToBasket">Add to basket</system:String>
+    <system:String x:Key="AddToComparison">Add to comparison</system:String>
+
+    <!--  Description News  -->
+    <system:String x:Key="Published">Published</system:String>
+
+    <!--  Create News  -->
+    <system:String x:Key="CreateNews">Create news</system:String>
+    <system:String x:Key="AddNewsInList">Publish</system:String>
+    <system:String x:Key="NameNews">Name news</system:String>
+    <system:String x:Key="EnterImageNews">Choose a photo</system:String>
+    <system:String x:Key="DescriptionNews">Description news</system:String>
+
+    <!--  Create Watch  -->
+    <system:String x:Key="CreateWatch">Create watch</system:String>
+    <system:String x:Key="AddWatchInList">Add Watch</system:String>
+    <system:String x:Key="EnterImageWatch">Choose a photo</system:String>
+
+    <!--  List users  -->
+    <system:String x:Key="Name">Name</system:String>
+    <system:String x:Key="Email">Email</system:String>
+
+    <!--  Basket  -->
+    <system:String x:Key="ResultPrice">Total:</system:String>
+    <system:String x:Key="Buy">Buy</system:String>
+
+    <!--  Orders  -->
+    <system:String x:Key="NumberOrder">Number order</system:String>
+    <system:String x:Key="CountWatch">Count watches</system:String>
+    <system:String x:Key="PriceOrders">Order amount</system:String>
+    <system:String x:Key="DateOrder">Date order</system:String>
+
+    <!--  Application  -->
+    <system:String x:Key="ClearFields">Clear fields</system:String>
+    <system:String x:Key="Save">Save</system:String>
+    <system:String x:Key="ImageWatch">Image</system:String>
+
+    <!--  Errors  -->
+    <system:String x:Key="EnterNameError">Enter name</system:String>
+    <system:String x:Key="UserError">User not find</system:String>
+    <system:String x:Key="UserBlock">Name is occupied</system:String>
+    <system:String x:Key="EnterEmailError">Enter mail</system:String>
+    <system:String x:Key="EnterPasswordError">Enter password</system:String>
+    <system:String x:Key="EnterPasswordError2">Confirm your password</system:String>
+    <system:String x:Key="EnterPasswordErrorNoSov">Passwords don't match</system:String>
+    <system:String x:Key="FieldsEmpty">Fields empty</system:String>
+
+</ResourceDictionary>

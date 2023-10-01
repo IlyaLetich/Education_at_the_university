@@ -1,0 +1,20 @@
+<BankAccount>
+    <type>EType.dollar</type>
+    <status>blocked</status>
+    <id>12</id>
+    <fio>IVANOV IVAN IVANOVICH</fio>
+    <listCard>
+        <CreditCard>
+            <numberCard>1231231231</numberCard>
+            <fioCard>IVANOV IVAN IVANOVICH</fioCard>
+        </CreditCard>
+        <CreditCard>
+            <numberCard>112231231</numberCard>
+            <fioCard>IVANOV IVAN IVANOVICH</fioCard>
+        </CreditCard>
+        <DebitCard>
+            <numberCard>7777777</numberCard>
+            <fioCard>IVANOV IVAN IVANOVICH</fioCard>
+        </DebitCard>
+    </listCard>
+</BankAccount>
