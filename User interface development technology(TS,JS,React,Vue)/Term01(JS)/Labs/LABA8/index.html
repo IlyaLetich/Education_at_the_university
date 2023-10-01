@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<title>Форма для авторизации</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="style.css" type="text/css">
+	<script src="script.js"></script>
+</head>
+<body>
+<div class="dws-wrapper">
+	<div class="dws-form">
+
+		<label class="tab active">Авторизация</label>
+		<label class="tab ">Регистрация</label>
+
+		<form id="form-1" class="tab-form">
+			<div class="box-input">
+				<input class="input" type="text" required>
+				<label>Введите E-mail</label>
+			</div>
+
+			<div class="box-input">
+				<input class="input" type="password" required>
+				<label>Введите пароль</label>
+			</div>
+
+			<button href="#" class="button">Войти</button>
+			<ul class="social">
+				<li><a href="https://ru-ru.facebook.com/"><div><i class="fa fa-facebook" ></i></div></a></li>
+				<li><a href="https://twitter.com/?lang=ru"><div><i class="fa fa-twitter"></i></div></a></li>
+				<li><a href="https://www.instagram.com/"><div><i class="fa fa-instagram"></i></div></a></li>
+				<li><a href="https://vk.com/"><div><i class="fa fa-vk"></i></div></a></li>
+				<li><a href="https://youtube/"><div><i class="fa fa-youtube"></i></div></a></li>
+			</ul>
+			<a href="#" >Я забыл свой E-mail или пароль</a>
+		</form>
+
+		<form id="form-1" class="tab-form">
+			<!-- <input class="input" type="text1" id="username1"  placeholder="Введите свою фамилию"> -->
+			<div class="box-input">
+				<input class="input" type="text" required id="username1">
+				<label>Введите свою фамилию</label>
+			</div>
+			<!-- <input class="input" type="text" id="username" placeholder="Введите свое имя"> -->
+			<div class="box-input">
+				<input class="input" type="text" required id="username1">
+				<label>Введите свое имя</label>
+			</div>
+			<!-- <input class="input" type="happy" placeholder="Дата рождения"> -->
+			<div class="box-input">
+				<input class="input" type="happy" required id="username1">
+				<label>Дата рождения</label>
+			</div>
+			<!-- <input class="input" type="email" id="email" placeholder="Введите E-mail адрес"> -->
+			<div class="box-input">
+				<input class="input" type="email"  required id="email">
+				<label>Введите E-mail адрес</label>
+			</div>
+			<!-- <input class="input" type="password" id="password" placeholder="Введите пароль"> -->
+			<div class="box-input">
+				<input class="input" type="password"  required id="password">
+				<label>Введите пароль</label>
+			</div>
+			<button type="submit" href="#" class="button">Регистрация</button>
+
+			<div class="recover">
+				<input type="checkbox" id="ckbox">
+				<label for="ckbox">Ознакомлен(-а) и принимаю <a href="#">условия регистрации</a></label>
+			</div>
+		</form>
+
+	</div>
+</div>
+</body>
+</html>
